@@ -36,7 +36,8 @@ Initialize the lab environment and provision the structured file workspace under
   * `mkdir /home/student/grading`
   * `touch /home/student/grading/{grade1,grade2,grade3}`
   
-<img width="665" height="388" alt="image" src="https://github.com/user-attachments/assets/0451f0b4-530d-483c-9d92-75fc07a190f4" />
+<img width="665" height="388" alt="image" src="https://github.com/user-attachments/assets/7a0b8b4a-a503-4e3f-8771-edc3002ed86f" />
+
 
 
 
