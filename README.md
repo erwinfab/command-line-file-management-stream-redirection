@@ -21,10 +21,32 @@ The scenario simulates standard production tasks where an administrator must iso
 
 ## 🛠️ High-Level Deployment and Configuration Steps
 
-**Step 1:  **
+**Step 1: Directory Provisioning & Target Initialization**
+Initialize the lab environment and provision the structured file workspace under the user home directory.  
+* Prepare the lab environment
+ *`lab rhcsa-rh124-review1 start`
+* Connect to target server node
+ * `ssh student@serverb`
+* Provision workspace and initialize files
+ * `mkdir /home/student/grading`
+ * `touch /home/student/grading/{grade1,grade2,grade3}`
+<img width="665" height="388" alt="image" src="https://github.com/user-attachments/assets/0451f0b4-530d-483c-9d92-75fc07a190f4" />
 
 
 
 
 
 ## 📊 Verification and Testing
+
+
+
+
+
+
+
+
+
+
+
+
+
