@@ -22,6 +22,7 @@ The scenario simulates standard production tasks where an administrator must iso
 ## 🛠️ High-Level Deployment and Configuration Steps
 
 **Step 1: Directory Provisioning & Target Initialization**
+
 Initialize the lab environment and provision the structured file workspace under the user home directory.  
 
 * Prepare the lab environment
