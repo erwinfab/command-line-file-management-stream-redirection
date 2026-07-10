@@ -71,11 +71,21 @@ Duplicate the tracking log and utilize a CLI text editor (Vim) to simulate modif
  <img width="591" height="250" alt="image" src="https://github.com/user-attachments/assets/2060c9db-448e-46e8-a8c4-044698122cd4" />
 
 
+**Step 4: Link Engineering & Metadata Auditing**
 
 
+Establish architectural shortcuts (hard and soft links) across storage paths and export an untainted system directory manifest.  
 
+* Map an immutable hard link to the grade1 asset
+   * `ln /home/student/grading/grade1 /home/student/hardcopy`
 
+* Map a flexible symbolic pointer to the grade2 asset
+   * `ln -s /home/student/grading/grade2 /home/student/softcopy`
 
+* Export long-listing metadata attributes omitting hidden files
+   * `ls -l /boot > /home/student/grading/longlisting.txt`
+
+<img width="725" height="308" alt="image" src="https://github.com/user-attachments/assets/7ac0dacd-42f2-4f70-95d5-9fb3eae15b18" />
 
 
 
