@@ -49,7 +49,8 @@ Isolate distinct sections of the target binary file using standard output and ap
 * Append the trailing 3 lines securely without overwriting file contents
    * `tail -n 3 /home/student/bin/manage >> /home/student/grading/review.txt`
 
-<img width="760" height="264" alt="image" src="https://github.com/user-attachments/assets/c7a5101b-ae63-4dc8-bb89-c4fcd521b5d6" />
+<img width="760" height="264" alt="image" src="https://github.com/user-attachments/assets/f7d60ad9-2c03-4ad9-9642-441c7318ebd6" />
+
 
 
 
