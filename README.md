@@ -38,6 +38,39 @@ Initialize the lab environment and provision the structured file workspace under
   
 <img width="665" height="388" alt="image" src="https://github.com/user-attachments/assets/7a0b8b4a-a503-4e3f-8771-edc3002ed86f" />
 
+**Step 2: Stream Extraction & I/O Appending**
+
+
+Isolate distinct sections of the target binary file using standard output and append redirections without destroying existing structural content.  
+
+* Isolate the leading 5 lines into the target configuration manifest
+ * `head -n 5 /home/student/bin/manage > /home/student/grading/review.txt`
+
+* Append the trailing 3 lines securely without overwriting file contents
+ * `tail -n 3 /home/student/bin/manage >> /home/student/grading/review.txt`
+
+<img width="763" height="658" alt="image" src="https://github.com/user-attachments/assets/b159c12b-ab66-44a3-bded-4852d36d75ab" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
