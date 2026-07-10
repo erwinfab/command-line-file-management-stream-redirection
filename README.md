@@ -44,10 +44,10 @@ Initialize the lab environment and provision the structured file workspace under
 Isolate distinct sections of the target binary file using standard output and append redirections without destroying existing structural content.  
 
 * Isolate the leading 5 lines into the target configuration manifest
- * `head -n 5 /home/student/bin/manage > /home/student/grading/review.txt`
+  * `head -n 5 /home/student/bin/manage > /home/student/grading/review.txt`
 
 * Append the trailing 3 lines securely without overwriting file contents
- * `tail -n 3 /home/student/bin/manage >> /home/student/grading/review.txt`
+  * `tail -n 3 /home/student/bin/manage >> /home/student/grading/review.txt`
 
 <img width="763" height="658" alt="image" src="https://github.com/user-attachments/assets/b159c12b-ab66-44a3-bded-4852d36d75ab" />
 
