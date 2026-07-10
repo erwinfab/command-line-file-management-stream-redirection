@@ -38,7 +38,7 @@ Initialize the lab environment and provision the structured file workspace under
   
 <img width="665" height="388" alt="image" src="https://github.com/user-attachments/assets/7a0b8b4a-a503-4e3f-8771-edc3002ed86f" />
 
---
+---
 
 **Step 2: Stream Extraction & I/O Appending**
 
