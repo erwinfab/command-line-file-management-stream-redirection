@@ -12,11 +12,16 @@ This project validates core system administration competencies in POSIX file sys
 The scenario simulates standard production tasks where an administrator must isolate log data, maintain backups, modify software configuration lines, and establish symbolic pointers.  
 
 ### Technical Specification Requirements:
-* **Directory Provisioning**: Establish an administrative /home/student/grading directory. 
+* **Directory Provisioning**: Establish an administrative /home/student/grading directory.
+ 
 * **File Initialization**: Generate empty tracker files (grade1, grade2, grade3).
-* **Text Processing & I/O Isolation**: Extract a precise block of header lines (first 5 lines) and footer lines (last 3 lines) from a source bin file and cleanly merge them into a single file without resource loss or collision. 
-* **Configuration Editing**: Perform hot-patches on a duplicated configuration file to duplicate targeted lines, strip specific variables, and inject custom configuration text.  
-* **Link Architecture Deployment**: Map explicit hard and soft (symbolic) structural linkages across the user profile. 
+ 
+* **Text Processing & I/O Isolation**: Extract a precise block of header lines (first 5 lines) and footer lines (last 3 lines) from a source bin file and cleanly merge them into a single file without resource loss or collision.
+  
+* **Configuration Editing**: Perform hot-patches on a duplicated configuration file to duplicate targeted lines, strip specific variables, and inject custom configuration text.
+  
+* **Link Architecture Deployment**: Map explicit hard and soft (symbolic) structural linkages across the user profile.
+  
 * **Metadata Auditing**: Capture a clean, long-form directory manifest excluding hidden vectors.  
 
 ## 🛠️ High-Level Deployment and Configuration Steps
