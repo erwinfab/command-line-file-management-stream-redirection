@@ -62,9 +62,14 @@ Duplicate the tracking log and utilize a CLI text editor (Vim) to simulate modif
 * Execute vim editing operations
    * vi /home/student/grading/review-copy.txt
       * Vim operations applied:
-   * Duplicated the line containing Test JJ.
-   * Purged the string containing Test HH.
-   * Appended A new line precisely between the Test BB and Test CC boundaries.  
+      * Duplicated the line containing `Test JJ`.
+      * Purged the string containing `Test HH`.
+      * Appended `A new line` precisely between the `Test BB` and `Test CC` boundaries.
+    
+<img width="774" height="413" alt="image" src="https://github.com/user-attachments/assets/92bf7416-67c2-434c-8f93-9692e5273baa" />
+
+ <img width="591" height="250" alt="image" src="https://github.com/user-attachments/assets/2060c9db-448e-46e8-a8c4-044698122cd4" />
+
 
 
 
