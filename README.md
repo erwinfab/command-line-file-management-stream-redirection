@@ -101,6 +101,7 @@ Return to the workstation context and trigger the programmatic laboratory script
 
 <img width="625" height="460" alt="image" src="https://github.com/user-attachments/assets/9685d254-2ef1-4cad-be4e-96ace3872c3b" />
 
+---
 
 **Step 2: Workspace Environment Teardown**
 
