@@ -53,6 +53,8 @@ Isolate distinct sections of the target binary file using standard output and ap
 
 <img width="760" height="264" alt="image" src="https://github.com/user-attachments/assets/f7d60ad9-2c03-4ad9-9642-441c7318ebd6" />
 
+---
+
 **Step 3: Text Manipulation & In-Line Patching**
 
 
@@ -72,6 +74,7 @@ Duplicate the tracking log and utilize a CLI text editor (Vim) to simulate modif
 
  <img width="591" height="250" alt="image" src="https://github.com/user-attachments/assets/2060c9db-448e-46e8-a8c4-044698122cd4" />
 
+---
 
 **Step 4: Link Engineering & Metadata Auditing**
 
@@ -89,9 +92,22 @@ Establish architectural shortcuts (hard and soft links) across storage paths and
 
 <img width="725" height="308" alt="image" src="https://github.com/user-attachments/assets/7ac0dacd-42f2-4f70-95d5-9fb3eae15b18" />
 
+---
+
+**Step 1: Laboratory Compliance Execution**
 
 
+Return to the workstation context and trigger the programmatic laboratory script to evaluate configuration alignment against the technical constraints.  
 
+<img width="625" height="460" alt="image" src="https://github.com/user-attachments/assets/9685d254-2ef1-4cad-be4e-96ace3872c3b" />
+
+
+**Step 2: Workspace Environment Teardown**
+
+
+De-provision local tracking mechanisms to return the deployment sandbox back to baseline conditions.  
+
+<img width="591" height="226" alt="image" src="https://github.com/user-attachments/assets/7f933a25-8c2c-4e5b-b8da-c408f5d243eb" />
 
 
 
