@@ -51,13 +51,20 @@ Isolate distinct sections of the target binary file using standard output and ap
 
 <img width="760" height="264" alt="image" src="https://github.com/user-attachments/assets/f7d60ad9-2c03-4ad9-9642-441c7318ebd6" />
 
+**Step 3: Text Manipulation & In-Line Patching**
 
 
+Duplicate the tracking log and utilize a CLI text editor (Vim) to simulate modifying specific parameters within a staging configuration.  
 
+* Duplicate file for staging
+   * cp /home/student/grading/review.txt /home/student/grading/review-copy.txt
 
-
-
-
+* Execute vim editing operations
+   * vi /home/student/grading/review-copy.txt
+      * Vim operations applied:
+   * Duplicated the line containing Test JJ.
+   * Purged the string containing Test HH.
+   * Appended A new line precisely between the Test BB and Test CC boundaries.  
 
 
 
